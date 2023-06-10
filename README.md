@@ -1,2 +1,2 @@
 # InvisibleArmorModel
-Invisible Armor Model Resource Pack for Java and Bedrock
+Invisible Armor Model Resource Pack for Minecraft Java and Bedrock
