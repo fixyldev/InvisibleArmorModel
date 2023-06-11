@@ -19,3 +19,6 @@ Note: Armor Trims are invisible on Turtle Shells due to their texture being invi
 ![Diamond Armor](diamond.png)
 ![Netherite Armor](netherite.png)
 ![Turtle Shell, Elytra](turtle.png)
+<br></br>
+##
+<center><p>This repository is mainly used for navigation and issue tracking.</p></center>
