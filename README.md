@@ -1,4 +1,4 @@
-![Invisible Armor Model Java Banner](https://i.imgur.com/nTj8nJ0.png)
+![Invisible Armor Model Java Banner](banner.png)
 ## 📥 Download
 ### Java Edition
 [<img src="modrinth.png" height="100">](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
