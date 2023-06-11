@@ -11,3 +11,5 @@ Any armor model (except the Turtle Shell and the Elytra) is **invisible** in thi
 Note: Armor Trims are invisible on Turtle Shells due to their texture being invisible!
 <br></br>
 ## 📷 Gallery
+![Leather Armor](leather.png) ![Chainmail Armor](chainmail.png) ![Iron Armor](iron.png)
+![Gold Armor](gold.png) ![Diamond Armor](diamond.png) ![Netherite Armor](netherite.png)
