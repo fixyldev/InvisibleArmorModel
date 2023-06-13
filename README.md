@@ -1,9 +1,9 @@
 ![Invisible Armor Model Banner](banner.png)
 ## 📥 Download
-### Java Edition
+### Java Edition:
 [<img src="modrinth.png" height="100">](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
 [<img src="curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/invisible-armor-model-for-java)
-### Bedrock Edition
+### Bedrock Edition:
 [<img src="curseforge.png" height="100">](https://curseforge.com/minecraft-bedrock/addons/invisible-armor-model-for-bedrock)
 <br></br>
 ## 🗒️ Description
