@@ -9,7 +9,7 @@
 <br></br>
 
 ## 🗒️ Description
-Any armor model (except the Turtle Shell and the Elytra) is **invisible** in third person. This is especially handy if you don't want to see an armor model on other players or yourself. When using it with other players in co-op, there could be complications as the other players can see your armor, as well as theirs. But you can't. I wouldn't recommend it for competitive games, because you would be at a big **disadvantage** against other players.
+Any armor model (except the Turtle Shell and the Elytra) is **invisible** in third person. This comes in handy when no armor model on other players or yourself should be seen. When using it with other players on a server or a realm, keep in mind that all other players are still be able to see the armor models. It is not recommended for competitive games, since there would be a **disadvantage** against other players.
 
 Note: Armor Trims are invisible on Turtle Shells due to their texture being invisible!
 <br></br>
