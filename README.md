@@ -1,4 +1,4 @@
-![Invisible Armor Model Banner](banner.png)
+[![Invisible Armor Model Banner](banner.png)](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
 
 ## 📥 Download
 ### Java Edition:
