@@ -15,13 +15,13 @@ Note: Armor Trims are invisible on Turtle Shells due to their texture being invi
 <br></br>
 
 ## 📷 Gallery
-![Leather Armor](leather.png)
-![Chainmail Armor](chainmail.png)
-![Iron Armor](iron.png)
-![Gold Armor](gold.png)
-![Diamond Armor](diamond.png)
-![Netherite Armor](netherite.png)
-![Turtle Shell, Elytra](turtle.png)
+![Leather Armor](leather.png?raw=true)
+![Chainmail Armor](chainmail.png?raw=true)
+![Iron Armor](iron.png?raw=true)
+![Gold Armor](gold.png?raw=true)
+![Diamond Armor](diamond.png?raw=true)
+![Netherite Armor](netherite.png?raw=true)
+![Turtle Shell, Elytra](turtle.png?raw=true)
 <br></br>
 
 ##
