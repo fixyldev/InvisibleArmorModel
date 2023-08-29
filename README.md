@@ -1,11 +1,11 @@
-[![Invisible Armor Model Banner](banner.png)](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
+[![Invisible Armor Model Banner](assets/banner.png)](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
 
 ## 📥 Download
 ### Java Edition:
-[<img src="modrinth.png" height="100">](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
-[<img src="curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/invisible-armor-model-for-java)
+[<img src="assets/modrinth.png" height="100">](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
+[<img src="assets/curseforge.png" height="100">](https://curseforge.com/minecraft/texture-packs/invisible-armor-model-for-java)
 ### Bedrock Edition:
-[<img src="curseforge.png" height="100">](https://curseforge.com/minecraft-bedrock/addons/invisible-armor-model-for-bedrock)
+[<img src="assets/curseforge.png" height="100">](https://curseforge.com/minecraft-bedrock/addons/invisible-armor-model-for-bedrock)
 <br></br>
 
 ## 🗒️ Description
@@ -15,13 +15,13 @@ Note: Armor Trims are invisible on Turtle Shells due to their texture being invi
 <br></br>
 
 ## 📷 Gallery
-![Leather Armor](leather.png?raw=true)
-![Chainmail Armor](chainmail.png?raw=true)
-![Iron Armor](iron.png?raw=true)
-![Gold Armor](gold.png?raw=true)
-![Diamond Armor](diamond.png?raw=true)
-![Netherite Armor](netherite.png?raw=true)
-![Turtle Shell, Elytra](turtle.png?raw=true)
+![Leather Armor](assets/leather.png?raw=true)
+![Chainmail Armor](assets/chainmail.png?raw=true)
+![Iron Armor](assets/iron.png?raw=true)
+![Gold Armor](assets/gold.png?raw=true)
+![Diamond Armor](assets/diamond.png?raw=true)
+![Netherite Armor](assets/netherite.png?raw=true)
+![Turtle Shell, Elytra](assets/turtle.png?raw=true)
 <br></br>
 
 ##
