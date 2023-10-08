@@ -1,3 +1,9 @@
+# Invisible Armor Model
+[![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/DerJulHD/DerJulHD/blob/main/STATUS.md#passively-maintained)
+[![Modrinth](https://img.shields.io/modrinth/dt/yd1iJerO?style=for-the-badge&logo=modrinth&color=gray&label)](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
+[![CurseForge](https://img.shields.io/curseforge/dt/546854?style=for-the-badge&logo=curseforge&color=gray&label)](https://curseforge.com/minecraft/texture-packs/invisible-armor-model-for-java)
+[![Latest](https://img.shields.io/modrinth/game-versions/yd1iJerO?style=for-the-badge&label=latest)](https://modrinth.com/resourcepack/invisible-armor-model-for-java/versions)
+
 [![Invisible Armor Model Banner](assets/banner.png)](https://modrinth.com/resourcepack/invisible-armor-model-for-java)
 
 ## 📥 Download
@@ -22,7 +28,6 @@ Note: Armor Trims are invisible on Turtle Shells due to their texture being invi
 ![Diamond Armor](assets/diamond.png?raw=true)
 ![Netherite Armor](assets/netherite.png?raw=true)
 ![Turtle Shell, Elytra](assets/turtle.png?raw=true)
-<br></br>
 
 ##
 <center><p>This repository is mainly used for navigation and issue tracking.</p></center>
