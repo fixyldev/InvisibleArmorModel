@@ -19,12 +19,3 @@
 ## ✨ Features
 - Removing the visual model of armor in third person.
 - Keeping the visual appearance of Elytras and the Turtle Shell.
-
-## 📷 Gallery
-![Leather Armor](images/leather.webp?raw=true)
-![Chainmail Armor](images/chainmail.webp?raw=true)
-![Iron Armor](images/iron.webp?raw=true)
-![Gold Armor](images/gold.webp?raw=true)
-![Diamond Armor](images/diamond.webp?raw=true)
-![Netherite Armor](images/netherite.webp?raw=true)
-![Turtle Shell, Elytra](images/turtle.webp?raw=true)
